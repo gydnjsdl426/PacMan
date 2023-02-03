@@ -1,0 +1,5 @@
+﻿  PacMan.cpp
+  PlayingState.cpp
+C:\1_Myfiles\대학교 자료들\21년 2학기\객체기반sw설계\Projects\pacMan\pacMan\PlayingState.cpp(21,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  pacMan.vcxproj -> C:\1_Myfiles\대학교 자료들\21년 2학기\객체기반sw설계\Projects\pacMan\Debug\pacMan.exe
